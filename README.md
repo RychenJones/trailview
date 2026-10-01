@@ -1,6 +1,6 @@
 # TrailView
 
-https://trailview.netlify.app
+https://trailview.rychenjones.com
 
 **TrailView** is a responsive hiking-trail website developed as a class project to demonstrate front-end web development skills. The project focuses on building an interactive user experience using HTML, CSS, and JavaScript, including client-side data handling, form validation, browser storage, URL parameters, accessibility, and modular JavaScript.
 
