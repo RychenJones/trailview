@@ -25,7 +25,7 @@
     "location": "Rocky Mountain National Park, Colorado",
     "distance": "3.6 mi round trip",
     "difficulty": "Easy",
-    "image": "images/emerald-lake.jpg",
+    "image": "../images/emeraldlake.jpg",
     "description": "Passes Nymph and Dream Lakes on the way to a lake beneath Hallett Peak."
   }
 ]
