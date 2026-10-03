@@ -18,5 +18,14 @@
     "description": "A stunning alpine hike in the Sawtooth Wilderness leading to a pristine lake.",
     "image": "../images/alicelake.jpg",
     "alt": "Image of the Alice Lake"
+  },
+  {
+    "id": "trail03",
+    "name": "Emerald Lake Trail",
+    "location": "Rocky Mountain National Park, Colorado",
+    "distance": "3.6 mi round trip",
+    "difficulty": "Easy",
+    "image": "images/emerald-lake.jpg",
+    "description": "Passes Nymph and Dream Lakes on the way to a lake beneath Hallett Peak."
   }
 ]
